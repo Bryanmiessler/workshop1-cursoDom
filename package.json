@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Bryanmiessler/workshop1-cursoDom.git",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
